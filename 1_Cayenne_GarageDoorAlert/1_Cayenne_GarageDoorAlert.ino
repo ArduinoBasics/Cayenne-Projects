@@ -37,7 +37,7 @@ int calEnabled = 0;           //When equal to 1, this will calibrate or change a
 int masterSwitch = 0;         //This will turn "monitoring" on/off. 0=off, 1=on.
 
 // Cayenne authentication token. This should be obtained from the Cayenne Dashboard. This identifies this particular Arduino from all others.
-char token[] = "l6tqqd7qee";
+char token[] = "insert your token here";
 
 //=====================================================================================================
 // setup(): 
